@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+  margin:0;;
+  padding:0;
+}
+.card {
+  min-width: 30rem;
+  /* max-width: 30rem; */
+}
+
+.charts {
+  min-width: 30rem;
+  max-width: 30rem;
+}
+
+/* .quote-image {
+  max-width: 200px;
+  min-width: 200px;
+  height: auto;
+} */
+
+.jumbotron {
+  background-image: linear-gradient(to bottom right, #343a40, gray,  #F0EAD6);
+
+  color: #DBAD6A;
+
+}
