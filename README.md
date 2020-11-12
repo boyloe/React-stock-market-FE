@@ -11,6 +11,7 @@
 ## Intro Video
 [Check Out Fat Stocks](https://www.loom.com/share/7bb34350675244a297c0aa6b40b84d30)
 
+Backend Repo: https://github.com/boyloe/node-stock-dashboard-backend
 ## About
 Fat Stocks is dashboard application that allows a user to search for stock information using stock ticker symbols. App will show current price, 30 day historical pricing information with line graph showing previous 30 days. App will also populate with current news stories regarding the company searched. 
 
